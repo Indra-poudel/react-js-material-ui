@@ -1,6 +1,6 @@
-# Minimal React js Starter
+# Minimal React js Material Ui Starter
 
-Repo for  React js Starter.
+Repo for  React js Material Ui Starter.
 
 ## Setup
 
